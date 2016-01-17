@@ -12,3 +12,14 @@
   b) Напишете функция filter, която приема булева функция и масив от филми (с име Netflix например). Нека тази функция извежда всички заглавия, излезли след 2010 година;
   
   c) Напишете функция, която сортира масива в низходящ ред, съгласно годината им на премиера.
+```
+Примерни данни:
+  Name                         | Year | Oscar
+  The Godfather                | 1972 | True
+  Avatar                       | 2009 | True
+  Star Wars: The Force Awakens | 2015 | False
+  Inception                    | 2010 | True
+  Toy Story                    | 1995 | False
+  Home Alone                   | 1990 | False
+  Interstellar                 | 2014 | True
+```
